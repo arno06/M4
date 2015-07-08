@@ -19,10 +19,6 @@ Event.CAPTURING_PHASE = 1;
 Event.AT_TARGET = 2;
 Event.BUBBLING_PHASE = 3;
 
-Event.ADDED_TO_STAGE = "added_to_stage";
-Event.REMOVED_FROM_STAGE = "removed_from_stage";
-Event.ENTER_FRAME = "enter_frame";
-Event.DRAW = "draw";
 Event.INIT = "init";
 Event.COMPLETE = "complete";
 
